@@ -1,6 +1,6 @@
 # springboot-rabbitmq-example
 
-branch teste
+branch copy
 
 ## Producer , tipos de exchage
     Direct
